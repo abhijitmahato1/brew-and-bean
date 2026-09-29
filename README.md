@@ -6,7 +6,7 @@ A modern, responsive café website built as a freelance-style frontend project.
 
 - Responsive design for desktop, tablet and mobile
 - Mobile navigation menu
-- Interactive coffee, breakfast and dessert menu
+- Interactive Coffee, Breakfast and Desserts menu
 - Café image gallery
 - Why Choose Us section
 - Customer reviews
@@ -27,24 +27,28 @@ A modern, responsive café website built as a freelance-style frontend project.
 
 ## 📱 Responsive Design
 
-The website is designed to work across:
+The website is designed for:
 
 - Desktop
 - Tablet
 - Mobile
 
-## 🚀 Project Purpose
+## 🎯 Project Purpose
 
-This project was created as a portfolio piece to demonstrate frontend web development and responsive UI design skills.
+This project was created as a portfolio project to demonstrate
+frontend web development, responsive design and JavaScript
+interaction skills.
 
 ## 👨‍💻 Author
 
 **Abhijit Mahato**
 
-GitHub: [abhijitmahato1](https://github.com/abhijitmahato1)
+GitHub:  
+https://github.com/abhijitmahato1
 
-LinkedIn: [Abhijit Mahato](https://www.linkedin.com/in/abhijit-mahato-95b83a249)
+LinkedIn:  
+https://www.linkedin.com/in/abhijit-mahato-95b83a249
 
 ## 📌 Project Status
 
-Completed frontend demo project.
+Frontend project completed.
